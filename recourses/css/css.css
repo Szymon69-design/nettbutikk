@@ -1,0 +1,11 @@
+@charset "utf-8";
+/* CSS Document */
+
+.box {
+	text-align: center;
+	border: 3px solid #FFEA00; 
+	width: 400px;
+}
+p.thick {
+  font-weight: bold;
+}
